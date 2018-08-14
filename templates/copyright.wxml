@@ -1,0 +1,3 @@
+<template name="tempCopyright">
+<view>  © 2018 U-Near       </view>
+</template>
